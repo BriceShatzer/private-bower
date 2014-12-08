@@ -34,8 +34,8 @@
     "proxySettings" : {
         "enabled": false,
         "host": "proxy",
-        //"username": "name",
-        //"password" : "pass",
+        "username": "name",
+        "password" : "pass",
         "port": 8080,
         "tunnel": false
     },
