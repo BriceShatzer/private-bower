@@ -11,7 +11,7 @@
     "repositoryCache": {
         "cachePrivate": false,
         "git": {
-            "enabled": true,//false
+            "enabled": true,
             "cacheDirectory": "./gitRepoCache",
             "host": "localhost",
             "port": 6789,
