@@ -1,5 +1,5 @@
 {
-    "port": 5678,
+    "port": 80,//5678
     "registryFile": "./bowerRepository.json",
     "timeout": 144000,
     "disablePublic": false,
@@ -11,7 +11,7 @@
     "repositoryCache": {
         "cachePrivate": false,
         "git": {
-            "enabled": false,
+            "enabled": true,//false
             "cacheDirectory": "./gitRepoCache",
             "host": "localhost",
             "port": 6789,
@@ -34,8 +34,8 @@
     "proxySettings" : {
         "enabled": false,
         "host": "proxy",
-        "username": "name",
-        "password" : "pass",
+        //"username": "name",
+        //"password" : "pass",
         "port": 8080,
         "tunnel": false
     },
