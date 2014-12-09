@@ -1,0 +1,31 @@
+{
+  "name": "packback_common",
+  "version": "1.0.0",
+  "authors": [
+    "Steven Maguire <steven@packback.co>"
+  ],
+  "description": "common front-end components of the packback platform",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./bower_components",
+    "favicon.ico",
+    "gulpfile.js",
+    "package.json",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1",
+    "foundation": "=5.4.5 || >5.4.6",
+    "viewer": "~0.10.2",
+    "event-source-polyfill": "~0.0.1"
+  },
+  "_comments": {
+    "packback-frontend-common": "git@github.com:packbackbooks/packback-frontend-common.git",
+    "foundation": "~5.4.6"
+  },
+  "homepage": "https://github.com/BriceShatzer/packback_common"
+}
