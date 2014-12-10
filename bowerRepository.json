@@ -1,0 +1,12 @@
+{
+    "frontend": {
+        "name": "Frontend",
+        "repo": "https://github.com/packbackbooks/frontend-common.git",
+        "hits": 0
+    },
+    "porkchop_sandwiches": {
+        "name": "porkchop_sandwiches",
+        "repo": "http://enigmatic-ocean-8756.herokuapp.com/packback_common.git",
+        "hits": 0
+    },
+}
