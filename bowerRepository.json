@@ -1,4 +1,9 @@
 {
+	"frontend-common-bower-package":{
+		"name":"frontend-common-bower-package",
+		"repo":"http://enigmatic-ocean-8756.herokuapp.com/frontend-common-bower-package.zip",
+		"hits":0
+	},
     "frontend": {
         "name": "Frontend",
         "repo": "https://github.com/packbackbooks/frontend-common.git",
