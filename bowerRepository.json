@@ -9,8 +9,8 @@
         "repo": "https://github.com/packbackbooks/frontend-common.git",
         "hits": 0
     },
-    "fronted_ssh":{
-        "name":"fronted_ssh",
+    "frontend_ssh":{
+        "name":"frontend_ssh",
         "repo":"git@github.com:packbackbooks/frontend-common.git",
         "hits":0
     },
